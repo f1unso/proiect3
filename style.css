@@ -1,0 +1,56 @@
+body {
+
+     background-color: #222;
+      color: white;
+       font-family: Arial, sans-serif;
+        padding: 20px;
+
+     } 
+     
+     .container {
+
+         max-width: 800px;
+          margin: auto;
+        
+        } 
+        
+        h1 a { 
+            color: #FFD700;
+             text-decoration: none;
+             } 
+             h1 a:hover { 
+                text-decoration: underline;
+             } 
+             p { 
+                line-height: 1.6;
+             } 
+             a { 
+                color: #4aa7ff; 
+            } 
+            a:hover {
+                 text-decoration: underline;
+                 } 
+                 .verde { 
+                    color: green; 
+                } 
+                .competitiva { 
+                    color: red; 
+                } 
+                .inclusiva { 
+                    color: blue;
+                } 
+                .button-container { 
+                    margin-top: 20px; 
+                } 
+                .button { 
+                    display: inline-block; 
+                    background-color: yellow; 
+                    color: black; 
+                    padding: 10px 15px; 
+                    text-decoration: none; 
+                    font-weight: bold; 
+                    border-radius: 5px; 
+                } 
+                .button:hover { 
+                    background-color: orange;
+                 }
